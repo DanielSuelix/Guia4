@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Guia4;
+
+/**
+ *
+ * @author danie
+ */
+public class Main {
+
+    public static void main(String[] args) {
+
+        Guia4 empezar = new Guia4();
+
+        empezar.setVisible(true);
+        empezar.setLocationRelativeTo(null);
+    }
+}
